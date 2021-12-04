@@ -4,3 +4,9 @@ soy estudiante de redes y comunicaciones y trabajo en una soporte en linea 5 añ
 me gusta viajar
 
 me interesa los avances tecnologicos
+mi comida favorita es el pollo a la brasa
+
+// commit 2
+1c7d3f3896d44bc4c62fba311c9850a81e9d36db
+
+//
