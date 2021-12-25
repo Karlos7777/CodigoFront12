@@ -9,4 +9,5 @@ mi comida favorita es el pollo a la brasa
 // commit 2
 1c7d3f3896d44bc4c62fba311c9850a81e9d36db
 
-por navidad me gusta comer pavo y cocacola
+por navidad me gusta el chocolate y tomar coca cola 
+esto lo estoy haciendo en mi rama de linder_dev y quiero que los cambios se junten con main
